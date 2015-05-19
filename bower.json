@@ -1,0 +1,9 @@
+{
+  "name": "chris-interim",
+  "version": "1.0.0",
+  "authors": [
+    "Gustav Pursche <gustavpursche@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT"
+}
